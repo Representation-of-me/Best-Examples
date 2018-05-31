@@ -2,13 +2,13 @@
 
 ## Majour Cources and Experiences
 
-1.**IT Essentials**
+[I'm a relative reference to a repository file]:https://github.com/Representation-of-me/Best-Examples#it-essentials
 
-2.**ITN**
+[I'm a relative reference to a repository file]:https://github.com/Representation-of-me/Best-Examples#itn
 
-3.**Alberta Computers for Schools**
+[I'm a relative reference to a repository file]:https://github.com/Representation-of-me/Best-Examples#alberta-computers-for-schools
 
-4.**Working for FTA Enterprises**
+[I'm a relative reference to a repository file]:https://github.com/Representation-of-me/Best-Examples#working-for-fta-enterprises
 
 ## IT Essentials
 
